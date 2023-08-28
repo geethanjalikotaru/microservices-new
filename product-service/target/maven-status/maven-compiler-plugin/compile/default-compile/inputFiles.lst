@@ -1,0 +1,7 @@
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\dto\ProductRequest.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\MongodbdemoApplication.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\dto\ProductResponse.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\model\Product.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\service\ProductService.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\controller\ProductController.java
+D:\workspace\microservicetutorial\microservices-new\product-service\src\main\java\com\example\mongodbdemo\repository\ProductRepository.java

@@ -1,0 +1,10 @@
+com\example\mongodbdemo\service\ProductService.class
+com\example\mongodbdemo\controller\ProductController.class
+com\example\mongodbdemo\repository\ProductRepository.class
+com\example\mongodbdemo\dto\ProductRequest$ProductRequestBuilder.class
+com\example\mongodbdemo\model\Product$ProductBuilder.class
+com\example\mongodbdemo\MongodbdemoApplication.class
+com\example\mongodbdemo\dto\ProductResponse$ProductResponseBuilder.class
+com\example\mongodbdemo\dto\ProductResponse.class
+com\example\mongodbdemo\dto\ProductRequest.class
+com\example\mongodbdemo\model\Product.class
